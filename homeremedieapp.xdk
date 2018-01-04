@@ -5,7 +5,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
       "src": "",
       "projectGuid": "d4ae5e3e-555e-40b3-a00d-999bdcd5ae02",
-      "lastModifiedDate": 1515106449605,
+      "lastModifiedDate": 1515110163437,
       "creationDate": 1515105332528
     },
     "testDirectory": "test",
@@ -32,12 +32,13 @@
           "android-targetSdkVersion": "23",
           "android-installLocation": "auto",
           "android-signed": true,
-          "AndroidLaunchMode": "singleTop"
+          "AndroidLaunchMode": "singleTop",
+          "Fullscreen": true
         },
         "isActive_": true,
-        "certificateId_": "",
+        "certificateId_": "JwPIHo2zoEGIaXrUTYQ_iw2",
         "appName_": "مجلة العلاج المنزلي  ",
-        "appID_": "com.homeremedie.app",
+        "appID_": "com.homeremediev1.app",
         "appAccess_": {
           "mode": "whitelist",
           "network": [
