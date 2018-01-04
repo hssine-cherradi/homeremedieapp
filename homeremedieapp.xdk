@@ -5,7 +5,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
       "src": "",
       "projectGuid": "d4ae5e3e-555e-40b3-a00d-999bdcd5ae02",
-      "lastModifiedDate": 1515105552631,
+      "lastModifiedDate": 1515106449605,
       "creationDate": 1515105332528
     },
     "testDirectory": "test",
@@ -28,14 +28,15 @@
         "runtime_": "Cordova 3.x",
         "name_": "Android",
         "preferences_": {
-          "android-minSdkVersion": "14",
+          "android-minSdkVersion": "16",
           "android-targetSdkVersion": "23",
           "android-installLocation": "auto",
-          "android-signed": true
+          "android-signed": true,
+          "AndroidLaunchMode": "singleTop"
         },
         "isActive_": true,
         "certificateId_": "",
-        "appName_": "مجلت العلاج المنزلي ",
+        "appName_": "مجلة العلاج المنزلي  ",
         "appID_": "com.homeremedie.app",
         "appAccess_": {
           "mode": "whitelist",
@@ -107,8 +108,8 @@
         "signed_": true,
         "crosswalkVersion_": "23",
         "cordovaCLIVersion_": "6.2.0",
-        "appDescription_": "مجلت العلاج المنزلي  | By Hssine cherradi",
-        "appAuthor_": "مجلت العلاج المنزلي  | By Hssine cherradi"
+        "appDescription_": "مجلة العلاج المنزلي   | By Hssine cherradi",
+        "appAuthor_": "مجلة العلاج المنزلي | By Hssine cherradi"
       },
       "iOS": {
         "platform_": "ios",
